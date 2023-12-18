@@ -1,0 +1,496 @@
+name,tackles,interceptions,clearances,errorLeadToGoal,team,age,ageCategory
+Sergi Cardona,50,27,43,0,Las Palmas,24,young
+Óscar Valentín,49,12,22,1,Rayo Vallecano,29,ideal
+Samuel Costa,45,23,27,0,Mallorca,23,young
+José Luis Gayà,43,4,18,0,Valencia,28,ideal
+Alfonso Espino,43,18,28,0,Rayo Vallecano,31,veteran
+Rubén Alcaraz,42,12,24,0,Cádiz,32,veteran
+Thierry Correia,42,27,29,0,Valencia,24,young
+João Cancelo,39,8,18,0,Barcelona,29,ideal
+Pepelu,39,18,33,0,Valencia,25,young
+Gavi,39,8,15,1,Barcelona,19,youth
+Saúl Ñíguez,37,7,24,0,Atlético Madrid,29,ideal
+Gastón Álvarez,33,25,46,0,Getafe,23,young
+Dion Lopy,33,6,9,0,Almería,21,young
+Damián Suárez,33,9,24,0,Getafe,35,veteran
+Diego Rico,32,19,21,0,Getafe,30,veteran
+Eduardo Camavinga,32,14,7,0,Real Madrid,21,young
+Aihen Muñoz,32,8,28,0,Real Sociedad,26,ideal
+Nemanja Maksimović,31,28,33,0,Getafe,28,ideal
+Óscar Mingueza,31,7,15,1,Celta Vigo,24,young
+Ander Guevara,31,6,19,0,Deportivo Alavés,26,ideal
+Mika Mármol,30,15,55,0,Las Palmas,22,young
+Adrià Pedrosa,30,9,17,0,Sevilla,25,young
+Enzo Loiodice,30,8,10,0,Las Palmas,23,young
+Ayoze Pérez,29,15,6,0,Real Betis,30,veteran
+Yangel Herrera,28,11,27,0,Girona FC,25,young
+Óscar de Marcos,28,7,10,0,Athletic Club,34,veteran
+Hamari Traore,28,13,22,0,Real Sociedad,31,veteran
+Manuel Sánchez,28,12,23,0,Celta Vigo,23,young
+Sergio Ruiz Alonso,28,9,12,0,Granada,29,ideal
+Toni Kroos,27,10,3,0,Real Madrid,33,veteran
+Ivan Rakitić,27,10,10,0,Sevilla,35,veteran
+Daniel Carvajal,27,14,17,0,Real Madrid,31,veteran
+Juanlu Sánchez,27,5,9,0,Sevilla,20,youth
+Martín Zubimendi,27,19,28,0,Real Sociedad,24,young
+Alex Suárez,27,10,41,0,Las Palmas,30,veteran
+Antonio Blanco,27,16,13,0,Deportivo Alavés,23,young
+Iddrisu Baba,27,10,11,1,Almería,27,ideal
+Juan Foyth,26,12,42,0,Villarreal,25,young
+Marc Roca,26,12,9,0,Real Betis,27,ideal
+Rubén Peña,26,12,19,0,Osasuna,32,veteran
+Kirian Rodríguez,25,12,9,0,Las Palmas,27,ideal
+Sergi Darder,25,10,3,0,Mallorca,29,ideal
+Yéremy Pino,25,5,4,0,Villarreal,21,young
+Iñigo Ruiz de Galarreta,25,6,8,0,Athletic Club,30,veteran
+Iza Carcelén,25,10,41,1,Cádiz,30,veteran
+Ignasi Miquel,25,20,66,0,Granada,31,veteran
+Samuel Lino,24,5,7,0,Atlético Madrid,23,young
+Mario Hermoso,24,16,42,0,Atlético Madrid,28,ideal
+Mikel Merino,24,7,23,0,Real Sociedad,27,ideal
+Jesús Navas,24,14,14,0,Sevilla,38,veteran
+Adrián Embarba,24,9,3,0,Almería,31,veteran
+Cristhian Mosquera,24,19,49,1,Valencia,19,youth
+Dani Rodríguez,24,5,9,0,Mallorca,35,veteran
+Giovanni González,24,6,14,0,Mallorca,29,ideal
+Aleix García,23,19,26,0,Girona FC,26,ideal
+Lucas Robertone,23,25,13,0,Almería,26,ideal
+Lucas Ocampos,23,7,5,0,Sevilla,29,ideal
+David López,23,13,33,1,Girona FC,34,veteran
+Loïc Badé,23,16,50,0,Sevilla,23,young
+Iván Martín,23,5,6,0,Girona FC,24,young
+Ismaila Ciss,23,19,28,0,Rayo Vallecano,29,ideal
+Javier Guerra,23,9,20,0,Valencia,20,youth
+Jude Bellingham,22,10,8,0,Real Madrid,20,youth
+Koke,22,8,8,0,Atlético Madrid,31,veteran
+Guido Rodríguez,22,15,27,0,Real Betis,29,ideal
+Mikel Vesga,22,14,21,0,Athletic Club,30,veteran
+Gerard Gumbau,22,11,14,1,Granada,28,ideal
+Andoni Gorosabel,22,12,23,0,Deportivo Alavés,27,ideal
+Raúl Torrente,22,9,46,1,Granada,22,young
+Federico Valverde,21,19,10,0,Real Madrid,25,young
+Brais Méndez,21,5,6,0,Real Sociedad,26,ideal
+Lamine Yamal,21,6,5,0,Barcelona,16,youth
+Daley Blind,21,12,48,0,Girona FC,33,veteran
+Julian Araujo,21,7,25,0,Las Palmas,22,young
+Juan Iglesias,21,9,23,0,Getafe,25,young
+Ander Herrera,21,8,5,0,Athletic Club,34,veteran
+Rubén Duarte,21,10,19,0,Deportivo Alavés,28,ideal
+Diego Lopez,21,9,1,0,Valencia,21,young
+Munir El Haddadi,21,5,6,0,Las Palmas,28,ideal
+Íñigo Lekue,21,4,18,0,Athletic Club,30,veteran
+Carlos Benavídez,21,7,8,0,Deportivo Alavés,25,young
+Dani Parejo,20,6,13,1,Villarreal,34,veteran
+Unai Núñez,20,30,92,0,Celta Vigo,26,ideal
+Oriol Romeu,20,6,12,0,Barcelona,32,veteran
+Yan Couto,20,3,7,0,Girona FC,21,young
+Daniel Vivian,20,12,58,0,Athletic Club,24,young
+Étienne Capoue,20,14,16,0,Villarreal,35,veteran
+Martin Valjent,20,23,63,0,Mallorca,28,ideal
+Lucas Boyé,20,3,23,0,Granada,27,ideal
+Jesús Areso,20,8,22,0,Osasuna,24,young
+Luca De La Torre,20,5,10,0,Celta Vigo,25,young
+Carlos Neva,20,7,38,0,Granada,27,ideal
+Gonzalo Escalante,20,12,14,1,Cádiz,30,veteran
+Jaume Costa,20,9,11,0,Mallorca,35,veteran
+Iván Alejo,20,2,13,0,Cádiz,28,ideal
+Sávio,19,5,2,0,Girona FC,19,youth
+Rodrigo de Paul,19,2,2,0,Atlético Madrid,29,ideal
+Aurélien Tchouaméni,19,14,13,0,Real Madrid,23,young
+Carl Starfelt,19,20,98,1,Celta Vigo,28,ideal
+Moi Gómez,19,6,7,0,Osasuna,29,ideal
+David García,19,13,72,0,Osasuna,29,ideal
+Jon Guridi,19,8,5,0,Deportivo Alavés,28,ideal
+Aimar Oroz,19,7,4,0,Osasuna,22,young
+Fali,19,13,58,0,Cádiz,30,veteran
+Pablo Maffeo,19,6,12,0,Mallorca,26,ideal
+Edgar González,19,11,51,0,Almería,26,ideal
+Isco,18,6,2,0,Real Betis,31,veteran
+Axel Witsel,18,7,48,0,Atlético Madrid,34,veteran
+Germán Pezzella,18,19,72,0,Real Betis,32,veteran
+Álvaro García,18,21,11,0,Rayo Vallecano,31,veteran
+Sergio Akieme,18,7,18,0,Almería,26,ideal
+Kike Pérez,18,4,5,0,Rayo Vallecano,26,ideal
+Gorka Guruzeta,17,12,13,0,Athletic Club,27,ideal
+Sergio Arribas,17,8,3,0,Almería,22,young
+Renato Tapia,17,4,13,0,Celta Vigo,28,ideal
+Djibril Sow,17,9,4,0,Sevilla,26,ideal
+Ivan Balliu,17,18,34,0,Rayo Vallecano,31,veteran
+Mouctar Diakhaby,17,5,47,0,Valencia,26,ideal
+Nahuel Molina,17,4,11,1,Atlético Madrid,25,young
+Alejandro Balde,17,5,19,0,Barcelona,20,youth
+Arnau Martínez,17,5,20,0,Girona FC,20,youth
+Toni Lato,17,7,7,0,Mallorca,26,ideal
+Máximo Perrone,17,10,6,0,Las Palmas,20,youth
+Javier Muñoz,17,9,9,0,Las Palmas,28,ideal
+Fran Pérez,17,7,1,0,Valencia,21,young
+Chumi,17,7,40,0,Almería,24,young
+Darwin Machís,17,3,2,0,Cádiz,30,veteran
+Alfonso Pedraza,17,7,12,0,Villarreal,27,ideal
+Antoine Griezmann,16,6,8,0,Atlético Madrid,32,veteran
+João Félix,16,7,5,0,Barcelona,24,young
+Marcos Llorente,16,6,12,0,Atlético Madrid,28,ideal
+Saúl Coco,16,10,51,0,Las Palmas,24,young
+Isi Palazón,16,8,20,0,Rayo Vallecano,28,ideal
+César Azpilicueta,16,11,21,0,Atlético Madrid,34,veteran
+Gonzalo Villar,16,3,13,0,Granada,25,young
+Chadi Riad,16,9,50,0,Real Betis,20,youth
+Unai López,16,6,7,0,Rayo Vallecano,28,ideal
+Óscar Trejo,16,3,6,0,Rayo Vallecano,35,veteran
+Fran Beltrán,16,9,10,0,Celta Vigo,24,young
+Lucas Pires,16,2,12,0,Cádiz,22,young
+José Copete,16,7,17,0,Mallorca,24,young
+Iñaki Williams,15,9,15,0,Athletic Club,29,ideal
+Frenkie de Jong,15,6,9,0,Barcelona,26,ideal
+İlkay Gündoğan,15,12,5,0,Barcelona,33,veteran
+Pablo Barrios,15,14,7,0,Atlético Madrid,20,youth
+Luis Rioja,15,8,12,0,Deportivo Alavés,30,veteran
+Yuri Berchiche,15,8,19,0,Athletic Club,33,veteran
+Florian Lejeune,15,9,68,0,Rayo Vallecano,32,veteran
+Miguel Gutiérrez,15,6,32,0,Girona FC,22,young
+Boubakary Soumaré,15,8,8,0,Sevilla,24,young
+Eric García,15,12,23,0,Girona FC,22,young
+Alejandro Catena,15,9,60,0,Osasuna,29,ideal
+Kevin Vázquez,15,4,20,0,Celta Vigo,30,veteran
+Antonio Sánchez,15,2,4,0,Mallorca,26,ideal
+Igor Zubeldia,15,13,40,0,Real Sociedad,26,ideal
+Manu Morlanes,15,4,4,0,Mallorca,24,young
+Santi Comesaña,15,5,7,0,Villarreal,27,ideal
+Houboulang Mendes,15,1,14,1,Almería,25,young
+Gerard Moreno,14,4,11,0,Villarreal,31,veteran
+Nico Williams,14,3,2,0,Athletic Club,21,young
+Ante Budimir,14,3,8,0,Osasuna,32,veteran
+Jules Koundé,14,7,41,0,Barcelona,25,young
+Antonio Rüdiger,14,5,46,0,Real Madrid,30,veteran
+Johan Mojica,14,14,6,0,Osasuna,31,veteran
+Erik Lamela,14,0,3,0,Sevilla,31,veteran
+Marc Pubill,14,4,7,0,Almería,20,youth
+Chris Ramos,14,6,26,0,Cádiz,26,ideal
+Álex Sola,14,4,7,0,Deportivo Alavés,24,young
+Robin Le Normand,14,14,34,0,Real Sociedad,27,ideal
+Lucas Torró,14,19,18,0,Osasuna,29,ideal
+Raúl Albiol,14,10,67,0,Villarreal,38,veteran
+Aitor Ruibal,14,7,10,0,Real Betis,27,ideal
+Aleksandar Sedlar,14,13,43,0,Deportivo Alavés,32,veteran
+Selim Amallah,14,9,3,0,Valencia,27,ideal
+Óliver Torres,14,0,0,0,Sevilla,29,ideal
+Abdelkabir Abqar,14,11,65,0,Deportivo Alavés,24,young
+Javier Hernández,14,8,42,0,Cádiz,25,young
+Djené,14,11,27,0,Getafe,31,veteran
+Rubén Sobrino,14,5,7,0,Cádiz,31,veteran
+Takefusa Kubo,13,7,2,0,Real Sociedad,22,young
+Pedri,13,5,2,0,Barcelona,21,young
+Jorge Cuenca,13,11,46,0,Villarreal,24,young
+Léo Baptistão,13,2,11,0,Almería,31,veteran
+Nemanja Gudelj,13,18,39,0,Sevilla,32,veteran
+Marvin Park,13,5,3,0,Las Palmas,23,young
+Juan Cruz,13,4,15,0,Osasuna,31,veteran
+Carles Aleñá,13,3,6,0,Getafe,25,young
+Ricard Sánchez,13,9,22,0,Granada,23,young
+David Alaba,12,15,34,0,Real Madrid,31,veteran
+Ronald Araújo,12,5,19,0,Barcelona,24,young
+Bryan Zaragoza,12,1,1,0,Granada,22,young
+Stefan Savić,12,17,21,0,Atlético Madrid,32,veteran
+Marcos Acuña,12,4,6,0,Sevilla,32,veteran
+Assane Diao,12,6,3,0,Real Betis,18,youth
+Ander Barrenetxea,12,5,2,0,Real Sociedad,21,young
+Omar Mascarell,12,12,15,0,Mallorca,30,veteran
+Óscar Melendo,12,4,2,1,Granada,26,ideal
+Cenk Özkaçar,12,5,22,0,Valencia,23,young
+Héctor Bellerín,12,14,16,0,Real Betis,28,ideal
+Alejandro Baena,11,5,3,0,Villarreal,22,young
+Oihan Sancet,11,3,0,0,Athletic Club,23,young
+Jonathan Bamba,11,11,6,0,Celta Vigo,27,ideal
+Fermín López,11,2,2,0,Barcelona,20,youth
+André Almeida,11,2,1,0,Valencia,23,young
+Largie Ramazani,11,20,3,0,Almería,22,young
+Iker Munoz,11,3,18,0,Osasuna,21,young
+Andrés Guardado,11,4,3,0,Real Betis,37,veteran
+Carlos Fernández,11,0,4,0,Real Sociedad,27,ideal
+Álvaro Fernández,11,7,4,0,Granada,20,youth
+Jaime Mata,11,6,12,0,Getafe,35,veteran
+Suso,10,3,0,0,Sevilla,30,veteran
+Viktor Tsygankov,10,3,7,0,Girona FC,26,ideal
+Rubén García,10,4,6,0,Osasuna,30,veteran
+Ianis Hagi,10,1,3,0,Deportivo Alavés,25,young
+Yarek Gasiorowski,10,8,15,0,Valencia,18,youth
+Abner Vinícius,10,8,20,0,Real Betis,23,young
+Matteo Gabbia,10,8,36,0,Villarreal,24,young
+Matija Nastasić,10,11,44,0,Mallorca,30,veteran
+Pejiño,10,2,2,0,Las Palmas,27,ideal
+Beñat Prados,10,4,8,0,Athletic Club,22,young
+Ilias Akhomach,10,5,2,0,Villarreal,19,youth
+Alejandro Pozo,10,4,7,0,Almería,24,young
+Antonio Puertas,10,4,4,0,Granada,31,veteran
+Luis Milla,9,4,1,0,Getafe,29,ideal
+Roger Martí,9,6,3,0,Cádiz,32,veteran
+Cristhian Stuani,9,5,9,0,Girona FC,37,veteran
+Kieran Tierney,9,4,10,0,Real Sociedad,26,ideal
+Fernando,9,7,8,0,Sevilla,36,veteran
+Fran García,9,10,11,1,Real Madrid,24,young
+Gabriel Paulista,9,21,58,0,Valencia,33,veteran
+Jon Moncayola,9,7,9,0,Osasuna,25,young
+Sergi Canós,9,5,1,0,Valencia,26,ideal
+Siebe Van Der Heyden,9,6,11,0,Mallorca,25,young
+Myrto Uzuni,9,1,4,0,Granada,28,ideal
+Beñat Turrientes,9,1,6,0,Real Sociedad,21,young
+Portu,9,1,1,0,Girona FC,31,veteran
+José Ángel Carmona,9,4,5,0,Getafe,21,young
+Amath Ndiaye,9,3,4,0,Mallorca,27,ideal
+Robert Navarro,9,2,1,0,Cádiz,21,young
+Sergio Ramos,8,14,36,0,Sevilla,37,veteran
+Luka Modrić,8,6,2,0,Real Madrid,38,veteran
+Hugo Duro,8,0,12,0,Valencia,24,young
+Juan Miranda,8,8,25,0,Real Betis,23,young
+Jørgen Strand Larsen,8,2,7,0,Celta Vigo,23,young
+Mikel Oyarzabal,8,2,5,0,Real Sociedad,26,ideal
+Rodrigo Riquelme,8,1,3,0,Atlético Madrid,23,young
+Abdul Mumin,8,8,47,0,Rayo Vallecano,25,young
+Kike Salas,8,5,12,0,Sevilla,21,young
+Franco Cervi,8,3,2,0,Celta Vigo,29,ideal
+Hugo Sotelo,8,1,2,0,Celta Vigo,19,youth
+Rodri Sánchez,8,4,1,0,Real Betis,23,young
+Óscar Rodríguez,8,3,1,0,Getafe,25,young
+Rafa Marín,8,11,35,0,Deportivo Alavés,21,young
+Aïssa Mandi,8,3,16,0,Villarreal,32,veteran
+Joseph Aidoo,8,4,27,0,Celta Vigo,28,ideal
+Miguel Rubio,8,12,23,0,Granada,25,young
+José Callejón,8,1,7,0,Granada,36,veteran
+Gonzalo Melero,8,1,5,0,Almería,29,ideal
+Stefan Mitrović,8,6,24,0,Getafe,33,veteran
+Joseba Zaldúa,8,1,3,0,Cádiz,31,veteran
+Tanguy Nianzou,7,1,3,0,Sevilla,21,young
+Álvaro Morata,7,0,15,0,Atlético Madrid,31,veteran
+Luiz Felipe,7,4,16,0,Real Betis,26,ideal
+Andreas Christensen,7,10,23,0,Barcelona,27,ideal
+Nacho Fernández,7,4,12,0,Real Madrid,33,veteran
+Javi López,7,3,25,0,Deportivo Alavés,21,young
+Lucas Vázquez,7,4,6,0,Real Madrid,32,veteran
+Aridane Hernández,7,3,49,0,Rayo Vallecano,34,veteran
+Raúl de Tomás,7,1,5,0,Rayo Vallecano,29,ideal
+Arsen Zakharyan,7,0,3,0,Real Sociedad,20,youth
+Omar Alderete,7,3,42,0,Getafe,26,ideal
+Hugo Guillamón,7,1,6,0,Valencia,23,young
+Alberto Moreno,7,3,13,0,Villarreal,31,veteran
+Ramón Terrats,7,1,1,0,Villarreal,23,young
+Sergi Altimira,7,2,3,0,Real Betis,22,young
+Adrià Altimira,7,3,9,0,Villarreal,22,young
+Dimitri Foulquier,7,4,12,0,Valencia,30,veteran
+Domingos Duarte,7,6,24,0,Getafe,28,ideal
+Rodrygo,6,4,1,0,Real Madrid,22,young
+Jonathan Viera,6,0,1,0,Las Palmas,34,veteran
+Vinícius Júnior,6,0,0,0,Real Madrid,23,young
+Iñigo Martínez,6,6,24,0,Barcelona,32,veteran
+Raphinha,6,2,2,0,Barcelona,27,ideal
+Ángel Correa,6,1,0,0,Atlético Madrid,28,ideal
+Brahim Díaz,6,2,0,0,Real Madrid,24,young
+Youssouf Sabaly,6,3,9,0,Real Betis,30,veteran
+Luiz Henrique,6,3,2,0,Real Betis,22,young
+Álex Berenguer,6,1,6,0,Athletic Club,28,ideal
+Mamadou Mbaye,6,5,26,0,Cádiz,25,young
+William Carvalho,6,2,1,0,Real Betis,31,veteran
+Álex Fernández,6,8,17,0,Cádiz,31,veteran
+Cyle Larin,6,1,6,0,Mallorca,28,ideal
+José María Giménez,6,6,29,0,Atlético Madrid,28,ideal
+Raúl García,6,2,4,0,Osasuna,37,veteran
+Anastasios Douvikas,6,1,5,0,Celta Vigo,24,young
+Sergio Camello,6,1,5,0,Rayo Vallecano,22,young
+Dani García,6,3,4,0,Athletic Club,33,veteran
+Carlos Dotor,6,2,2,0,Celta Vigo,22,young
+Mauro Arambarri,6,2,7,0,Getafe,28,ideal
+Kaiky,6,3,21,0,Almería,19,youth
+Wilson Manafá,6,1,3,1,Granada,29,ideal
+Luis Javier Suárez,5,0,6,0,Almería,26,ideal
+Borja Mayoral,5,2,12,0,Getafe,26,ideal
+Sandro Ramírez,5,0,4,0,Las Palmas,28,ideal
+Willian José,5,0,8,0,Real Betis,32,veteran
+Marcos Alonso,5,4,2,0,Barcelona,32,veteran
+Joan Jordán,5,3,2,0,Sevilla,29,ideal
+Joselu,5,3,4,0,Real Madrid,33,veteran
+Paul Akouokou,5,1,1,0,Real Betis,25,young
+Youssef En-Nesyri,5,2,6,0,Sevilla,26,ideal
+Yeray Álvarez,5,3,11,0,Athletic Club,28,ideal
+Javi Galán,5,1,3,0,Atlético Madrid,29,ideal
+Abderrahman Rebbach,5,2,2,0,Deportivo Alavés,25,young
+Abdessamad Ezzalzouli,5,3,0,0,Real Betis,22,young
+Nacho Vidal,5,0,5,0,Osasuna,28,ideal
+Mihailo Ristić,5,4,8,0,Celta Vigo,28,ideal
+Carles Pérez,5,3,0,0,Celta Vigo,25,young
+Njegoš Petrović,5,0,3,0,Granada,24,young
+Andrei Rațiu,5,0,2,0,Rayo Vallecano,25,young
+Carlos Romero,5,1,4,0,Villarreal,22,young
+Víctor Díaz,5,1,8,0,Granada,35,veteran
+Vedat Muriqi,4,0,14,0,Mallorca,29,ideal
+Antonio Raíllo,4,8,18,0,Mallorca,32,veteran
+Yannick Carrasco,4,1,6,0,Atlético Madrid,30,veteran
+Dodi Lukebakio,4,2,0,0,Sevilla,26,ideal
+Alberto Moleiro,4,3,2,0,Las Palmas,20,youth
+Randy Nteka,4,1,6,0,Rayo Vallecano,26,ideal
+Ferran Torres,4,3,4,0,Barcelona,23,young
+Luis Hernández,4,5,21,0,Cádiz,34,veteran
+Marc Cardona,4,1,2,0,Las Palmas,28,ideal
+José Luis Morales,4,2,1,0,Villarreal,36,veteran
+Rominigue Kouamé,4,7,1,0,Cádiz,27,ideal
+Omenuke Mfulu,4,2,5,0,Las Palmas,29,ideal
+Aitor Paredes,4,13,46,0,Athletic Club,23,young
+Carlos Domínguez,4,5,15,0,Celta Vigo,22,young
+Umar Sadiq,4,0,4,0,Real Sociedad,26,ideal
+Álvaro Lemos,4,2,3,0,Las Palmas,30,veteran
+Jon Pacheco,4,2,18,0,Real Sociedad,22,young
+Radamel Falcao,4,0,3,0,Rayo Vallecano,37,veteran
+Xeber Alkain,4,1,2,0,Deportivo Alavés,26,ideal
+Kike Barja,4,1,2,0,Osasuna,26,ideal
+Samuel Omorodion,4,1,5,0,Deportivo Alavés,19,youth
+César Montes,4,4,28,0,Almería,26,ideal
+Marc Bartra,4,3,10,0,Real Betis,32,veteran
+Mohamed-Ali Cho,4,1,0,0,Real Sociedad,19,youth
+Víctor Chust,4,2,5,0,Cádiz,23,young
+Filip Jörgensen,3,1,13,0,Villarreal,21,young
+Robert Lewandowski,3,2,8,0,Barcelona,35,veteran
+Aritz Elustondo,3,2,11,0,Real Sociedad,29,ideal
+Mason Greenwood,3,1,1,0,Getafe,22,young
+Ferland Mendy,3,8,10,0,Real Madrid,28,ideal
+Juanmi Latasa,3,3,15,0,Getafe,22,young
+Chimy Ávila,3,4,6,0,Osasuna,29,ideal
+Alexander Sørloth,3,0,12,0,Villarreal,28,ideal
+Imanol García de Albéniz,3,5,5,0,Athletic Club,23,young
+Memphis Depay,3,1,0,0,Atlético Madrid,29,ideal
+Dani Ceballos,3,0,1,0,Real Madrid,27,ideal
+Benito Ramírez,3,0,0,0,Las Palmas,28,ideal
+Fede San Emeterio,3,1,1,0,Cádiz,26,ideal
+Jordi Martín,3,2,0,0,Getafe,22,young
+Malcom Ares,3,0,0,0,Athletic Club,22,young
+Thomas Lemar,3,0,0,0,Atlético Madrid,28,ideal
+Josep Chavarría,3,1,1,0,Rayo Vallecano,25,young
+Jorge Meré,3,4,22,0,Cádiz,26,ideal
+Daley Sinkgraven,3,2,3,0,Las Palmas,28,ideal
+Iker Muniain,3,0,0,0,Athletic Club,30,veteran
+Pablo Ibáñez Lumbreras,3,2,4,0,Osasuna,25,young
+Urko González,3,0,3,0,Real Sociedad,22,young
+Álex Centelles,3,4,6,0,Almería,24,young
+Iago Aspas,2,5,4,0,Celta Vigo,36,veteran
+Álvaro Valles,2,0,29,0,Las Palmas,26,ideal
+Artem Dovbyk,2,0,8,0,Girona FC,26,ideal
+Abdón Prats,2,2,4,0,Mallorca,31,veteran
+Giorgi Mamardashvili,2,0,14,1,Valencia,23,young
+Srđan Babić,2,0,2,0,Almería,27,ideal
+Sergi Roberto,2,2,0,0,Barcelona,31,veteran
+José Manuel Arnáiz,2,1,0,0,Osasuna,28,ideal
+Unai García,2,1,7,0,Osasuna,31,veteran
+Eric Curbelo,2,2,5,0,Las Palmas,29,ideal
+Adnan Januzaj,2,1,0,0,Sevilla,28,ideal
+Williot Swedberg,2,0,0,0,Celta Vigo,19,youth
+Rafa Mir,2,0,0,0,Sevilla,26,ideal
+Manu Trigueros,2,2,3,0,Villarreal,32,veteran
+Bebé,2,0,0,0,Rayo Vallecano,33,veteran
+Javi Llabrés,2,1,0,0,Mallorca,21,young
+Kiko Femenía,2,3,2,0,Villarreal,32,veteran
+Nahuel Tenaglia,2,1,9,0,Deportivo Alavés,27,ideal
+Lázaro,2,0,1,0,Almería,21,young
+Silvi Clúa,2,0,0,0,Girona FC,18,youth
+José Mari,2,0,0,0,Cádiz,36,veteran
+Unai Gómez,2,0,4,0,Athletic Club,20,youth
+Sergi Guardiola,2,0,1,0,Cádiz,32,veteran
+Jon Ander Olasagasti,2,2,1,0,Real Sociedad,23,young
+Ben Brereton Díaz,2,0,0,0,Villarreal,24,young
+Jorge Herrando,2,2,12,0,Osasuna,22,young
+Arnau Puigmal,2,3,2,0,Almería,22,young
+Jesús Vázquez,2,0,2,0,Valencia,20,youth
+Jesús Vallejo,2,0,0,1,Granada,26,ideal
+Marc Guiu,1,0,0,0,Barcelona,17,youth
+Vicente Guaita,1,0,11,0,Celta Vigo,36,veteran
+Paulo Gazzaniga,1,0,6,0,Girona FC,31,veteran
+Predrag Rajković,1,0,13,0,Mallorca,28,ideal
+Marko Dmitrović,1,1,8,0,Sevilla,31,veteran
+Kike García,1,0,8,0,Deportivo Alavés,34,veteran
+Diego Mendez,1,1,0,0,Rayo Vallecano,20,youth
+Famara Diédhiou,1,0,2,0,Granada,31,veteran
+Cristian Herrera,1,0,2,0,Las Palmas,32,veteran
+Hugo González,1,0,0,0,Valencia,20,youth
+Juanpe,1,0,15,0,Girona FC,32,veteran
+Pablo Torre,1,2,2,0,Girona FC,20,youth
+Rachad Dhimi,1,0,0,0,Almería,18,youth
+Bernardo Espinosa,1,0,2,0,Girona FC,34,veteran
+Peru Nolaskoain Esnal,1,0,1,0,Athletic Club,25,young
+Jorge de Frutos,1,2,2,0,Rayo Vallecano,27,ideal
+Maximiliano Gómez,1,1,1,0,Cádiz,27,ideal
+Valery Fernández,1,0,0,0,Girona FC,24,young
+Ibrahima Kébé,1,1,0,0,Girona FC,23,young
+Mariano Díaz,1,0,2,0,Sevilla,30,veteran
+Sory Kaba,1,0,8,0,Las Palmas,28,ideal
+Çağlar Söyüncü,1,1,7,0,Atlético Madrid,27,ideal
+Ibrahima Kone,1,0,4,0,Almería,24,young
+Raúl García,1,1,1,0,Athletic Club,37,veteran
+Shon Weissman,1,0,1,0,Granada,27,ideal
+Roman Yaremchuk,1,0,2,0,Valencia,28,ideal
+Miguel Rodríguez,1,1,0,0,Celta Vigo,20,youth
+Federico Gattoni,1,0,1,0,Sevilla,24,young
+Pablo Gozálbez,1,1,1,0,Valencia,22,young
+Santi García,1,0,0,0,Getafe,22,young
+Adria Miquel Bosch Sanchis,1,0,1,0,Granada,22,young
+Andriy Lunin,0,0,5,0,Real Madrid,24,young
+Jeremías Ledesma,0,0,18,1,Cádiz,30,veteran
+Álex Remiro,0,0,23,0,Real Sociedad,28,ideal
+David Gil,0,0,4,0,Cádiz,29,ideal
+Rui Silva,0,1,5,0,Real Betis,29,ideal
+Claudio Bravo,0,0,8,0,Real Betis,40,veteran
+Unai Simón,0,1,7,0,Athletic Club,26,ideal
+David Soria,0,0,11,4,Getafe,30,veteran
+Marc-André ter Stegen,0,0,7,1,Barcelona,31,veteran
+Stole Dimitrievski,0,0,15,1,Rayo Vallecano,29,ideal
+Kepa Arrizabalaga,0,0,7,0,Real Madrid,29,ideal
+Francisco Vieites,0,0,4,0,Real Betis,24,young
+Jan Oblak,0,0,10,0,Atlético Madrid,30,veteran
+Antonio Sivera,0,0,15,0,Deportivo Alavés,27,ideal
+Ørjan Nyland,0,0,5,0,Sevilla,33,veteran
+Iñaki Peña,0,0,6,0,Barcelona,24,young
+André Ferreira,0,0,18,2,Granada,27,ideal
+Sergio Herrera,0,0,10,0,Osasuna,30,veteran
+Milutin Osmajić,0,0,0,0,Cádiz,24,young
+Éder Militão,0,0,1,0,Real Madrid,25,young
+Diego Mariño,0,0,1,0,Almería,33,veteran
+Ricardo Visus,0,1,1,0,Real Betis,22,young
+Luís Maximiano,0,0,12,1,Almería,24,young
+Asier Villalibre,0,0,2,0,Athletic Club,26,ideal
+Borja Iglesias,0,2,2,0,Real Betis,30,veteran
+Mario Dominguez,0,0,0,0,Valencia,19,youth
+Denis Suárez,0,0,4,0,Villarreal,29,ideal
+Álvaro Negredo,0,1,0,0,Cádiz,38,veteran
+Francis Coquelin,0,1,1,0,Villarreal,32,veteran
+Jorge Pascual,0,0,0,0,Villarreal,20,youth
+Jesús Corona,0,1,0,0,Sevilla,30,veteran
+Marko Milovanović,0,0,1,0,Almería,20,youth
+Iván Villar,0,0,9,0,Celta Vigo,26,ideal
+Brian Ocampo,0,0,0,0,Cádiz,24,young
+Ansu Fati,0,0,0,0,Barcelona,21,young
+Juan Cruz,0,0,0,0,Real Betis,31,veteran
+Gonzalo García,0,0,0,0,Real Madrid,19,youth
+Sokratis,0,0,2,0,Real Betis,35,veteran
+Alberto Soro,0,0,0,0,Granada,24,young
+José Pozo,0,0,0,0,Rayo Vallecano,27,ideal
+César Tárrega,0,0,2,0,Valencia,21,young
+Gorka Rivera,0,0,0,0,Getafe,19,youth
+Alberto Perea,0,0,0,0,Granada,32,veteran
+Mamadou Sylla,0,0,1,0,Deportivo Alavés,29,ideal
+Fabrizio Angileri,0,2,4,0,Getafe,29,ideal
+André Silva,0,0,0,0,Real Sociedad,28,ideal
+Miguel de la Fuente,0,0,0,0,Deportivo Alavés,24,young
+Nabil Fekir,0,0,0,0,Real Betis,30,veteran
+Álvaro Odriozola,0,1,0,0,Real Sociedad,28,ideal
+Salvi Sánchez,0,1,0,0,Rayo Vallecano,32,veteran
+Alberto Mari,0,0,0,0,Valencia,22,young
+Jon Karrikaburu,0,0,0,0,Deportivo Alavés,21,young
+Marciano Sanca,0,0,0,0,Almería,19,youth
+Nico Paz,0,1,0,0,Real Madrid,19,youth
+Anthony Lozano,0,0,1,0,Getafe,30,veteran
+Bono,0,0,0,0,Sevilla,32,veteran
+Tomás Mendes,0,0,0,0,Deportivo Alavés,19,youth
+Mikel Jauregizar,0,0,0,0,Athletic Club,20,youth
+Fernando Martínez,0,0,1,0,Almería,33,veteran
+Raúl Fernández,0,0,1,0,Granada,35,veteran
+Unai Ropero,0,0,0,0,Deportivo Alavés,22,young
+Aitor Fernández,0,0,2,1,Osasuna,32,veteran
+Jhon Solís,0,0,0,0,Girona FC,19,youth
+Gabri Veiga,0,0,0,0,Celta Vigo,21,young
+Pepe Reina,0,0,0,0,Villarreal,41,veteran
+Moussa Diakité,0,0,0,0,Cádiz,20,youth
